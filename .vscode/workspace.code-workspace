@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"name": "Front_End_Basics",
+			"path": "D:\\Front_End_Basics"
+		},
+		{
+			"name": "HTML Basics",
+			"path": "..\\..\\..\\HTML Basics"
+		},
+		{
+			"path": "..\\.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Base"
+	}
+}
